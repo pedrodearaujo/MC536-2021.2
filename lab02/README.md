@@ -9,7 +9,7 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `RA`: `<nome completo>`
+* `223382`: `Pedro Henrique Rodrigues de Araujo`
 
 ## Tarefa sobre Acesso a DBPedia, MeSH e OpenStreetMap
 
