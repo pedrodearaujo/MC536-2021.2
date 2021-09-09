@@ -9,8 +9,8 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `RA`: `<nome completo>`
+* `223382`: `Pedro Henrique Rodrigues de Araújo`
 
 ## Tarefa sobre Consultas SQL no NHANES
 
-> Coloque um link para o arquivo do notebook com a resolução da tarefa. Ele estará dentro da pasta `notebook`.
+> [Link para o notebook](notebook/lab2-logic-model-dbpedia.ipynb)
