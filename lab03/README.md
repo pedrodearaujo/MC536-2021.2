@@ -13,4 +13,4 @@ Estrutura de pastas:
 
 ## Tarefa sobre Consultas SQL no NHANES
 
-> [Link para o notebook](notebook/lab2-logic-model-dbpedia.ipynb)
+> [Link para o notebook](notebook/lab03-nhanes.ipynb)
