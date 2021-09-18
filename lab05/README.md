@@ -7,7 +7,7 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `RA`: `<nome completo>`
+* `223382`: `Pedro Henrique Rodrigues de Araujo`
 
 ## Tarefa de Cypher sobre Marcadores e Taxonomia
 
