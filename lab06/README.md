@@ -18,7 +18,7 @@ Estrutura de pastas:
 | referência | `` |
 | link       | `https://drive.google.com/file/d/10Q_T1TANC5BtEBpPexsTv7-gfOLva5X2/view` |
 | dataset | `https://osf.io/mxrgu/.` |
-| formato | `<formato em que os arquivos são disponibilizados>` |
+| formato | `csv` |
 
 ## Resumo
 
