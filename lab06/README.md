@@ -11,7 +11,7 @@ Estrutura de pastas:
 # Aluno
 * `223382`: `Pedro Henrique Rodrigues de Araujo`
 
-# Análise do Artigo `PolRoute-DS: um Dataset de Dados Criminais para Geracao de Rotas de Patrulhamento Policial`
+# Análise do Artigo PolRoute-DS: um Dataset de Dados Criminais para Geracao de Rotas de Patrulhamento Policial
 
 | campo | valor |
 |------------|----------------------------------------|
