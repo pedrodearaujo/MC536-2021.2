@@ -22,11 +22,11 @@ Estrutura de pastas:
 
 ## Resumo
 
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
+> O artigo busca relacionar dados públicos sobre crimes, com rodovias, ruas e avenidas, com o intuito de criar rotas mais efetivas para rondas policiais nestas determinadas cidades.
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+> Através do dataset podemos prever quais regiões são consideradas mais perigosas e através disso determinar quais rotas deveriam ser evitadas por civis e reforçadas por policiais. Além disso, seria possível um planejamento maior de linhas de transporte público, construção de delegacias e postos policiais.
 
 ## Trabalhos relacionados
 
