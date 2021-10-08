@@ -9,24 +9,24 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `RA`: `<nome completo>`
+* `223382`: `Pedro Henrique Rodrigues de Araujo`
 
-# Análise do Artigo `<título do artigo>`
+# Análise do Artigo `PolRoute-DS: um Dataset de Dados Criminais para Geracao de Rotas de Patrulhamento Policial`
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `<referência bibliográfica do artigo>` |
-| link       | `<url para acesso à página do artigo ou PDF do mesmo>` |
-| dataset | `<link para o repositório público onde está hospedado o dataset>` |
-| formato | `<formato em que os arquivos são disponibilizados>` |
+| referência | `` |
+| link       | `https://drive.google.com/file/d/10Q_T1TANC5BtEBpPexsTv7-gfOLva5X2/view` |
+| dataset | `https://osf.io/mxrgu/.` |
+| formato | `csv` |
 
 ## Resumo
 
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
+> O artigo busca relacionar dados públicos sobre crimes, com rodovias, ruas e avenidas, com o intuito de criar rotas mais efetivas para rondas policiais nestas determinadas cidades.
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+> Através do dataset podemos prever quais regiões são consideradas mais perigosas e através disso determinar quais rotas deveriam ser evitadas por civis e reforçadas por policiais. Além disso, seria possível um planejamento maior de linhas de transporte público, construção de delegacias e postos policiais.
 
 ## Trabalhos relacionados
 
