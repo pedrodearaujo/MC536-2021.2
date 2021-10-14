@@ -20,6 +20,6 @@ Estrutura de pastas:
 ## Perguntas de Pesquisa/análise
 
 > Liste aqui as três perguntas de pesquisa/análise
-> * Pergunta 1
-> * Pergunta 2
-> * Pergunta 3
+> * Características físicas podem ter influência no gosto musical?
+> * Os gêneros musicais no geral tem um público homogêneo?
+> * A duração da música, tem relação com a média de idade dos ouvintes?
